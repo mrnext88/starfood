@@ -5,6 +5,5 @@ Star food  - free responsive HTML template
 Reza aghaee vafaee
 
 ##CREDITS:
-https://fonts.googleapis.com
 http://getbootstrap.com/
 http://jquery.com/
