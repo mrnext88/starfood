@@ -1,0 +1,290 @@
+@media only screen and (max-width: 1200px) {
+    body {
+        
+    }
+    .hero-text-box{
+        width: 100%;
+        padding: 0 2%;
+    }
+    .section-futures h3{
+        font-size: 100%;
+    }
+    .steps-box:first-child{
+        margin-top: 0%;
+    }
+    .city-futures{
+        font-size: 97%;
+    }
+ .btn-app img{
+        width:40%;
+        height: auto;
+    }
+    .works-step{
+        margin-bottom: 40px;
+    }
+    .plan-box ul li{
+        font-size: 76%;
+    }
+    
+    .plan-box .btn{
+        padding: 10px 30px;
+    }
+    .contact-form label{
+        font-size: 62%;
+    }
+    .form-box input, .form-box select,.form-box textarea .{
+        width: 80%;
+    }
+    .form-box input[type=check-box]{
+        width: 10px;
+    }
+}
+@media only screen and (max-width:1023px){
+    body {
+      
+        font-size: 18px;
+    }
+    section{
+        padding: 60px 0;
+    }
+    .long-copy{
+        width:80%;
+        margin-left: 10%;
+    }
+    .section-features h3{
+        font-size: 88%;
+    }
+    .steps-box {
+        margin-top: 10px;
+        
+    }
+    .btn-app{
+        height: 90%;
+        width: auto;
+    }
+    .works-step{
+        margin-bottom: 30px;
+    }
+    .works-step:last-of-type{
+        margin-bottom: 50px;
+    }
+    .app-screen{
+        width: 40%;
+        padding-left: 100px;
+    }
+    .icon-small{
+        width:14px;
+        margin-right: 6px;
+        
+    }
+    .app-screen img{
+        float:none;
+    }
+    .steps-box:last-child{
+        margin-top: 5px;
+    }
+    .city-feature{
+        font-size: 90%;
+    }
+    blockquote{
+        font-size: 90%;
+    }
+    .plan-box{
+        width: 100%;
+        margin-left: 0;
+        font-size: 97%;
+    }
+    .plan-price{
+        font-size: 250%;
+    }
+    .footer-nav{
+        font-size: 80%;
+    }
+    .contact-form{
+        width: 90%;
+    }
+    .form-box , .map,.call{
+        height: 450px;
+    }
+    .form-box{
+        padding-top: 0;
+    }
+}
+
+
+
+
+
+
+@media only screen and (max-width:767px){
+    body {
+    
+        font-size: 16px;
+    }
+    section{
+        padding: 30px 0;
+    }
+    .row , .hero-text-box{
+        padding: 0 4%;
+    }
+    .btn:link,. btn:visited,input[type:submit]{
+        padding: 8px 25px;
+    }
+    h1{
+        font-size: 165%;
+    }
+    .logo{
+        height: 70px;
+    }
+    .span-1-of-4{
+        width: 49.2%;
+    }
+    .col{
+       
+        margin:0 0 1% 0;
+    }
+    .long-copy{
+        width: 100%;
+        margin-left: 1%;
+    }
+    h2{
+    font-size: 145%;
+    }
+    .app-screen{
+       padding: 0;
+        margin: 0 auto;
+        width:25%;
+        float: none;
+    }
+    .steps-box:last-child{
+       
+        margin-top: 20px;
+    }
+    .steps-box:first-child{
+         margin: 0 auto;
+        text-align: center;
+    }
+    .works-step{
+        margin-bottom:30px;
+        
+    }
+    .works-step:last-of-type{
+        margin-bottom: 50px;
+    }
+    .works-step div{
+        height: 40px;
+        width:40px;
+        padding: 4px;
+        margin-right: 15px;
+        font-size: 120%;
+    }
+    .span-1-of-2{
+        width:100%;
+    }
+    .city-features{
+        margin:0;
+        padding-right: 12px;
+    }
+    .cities img{
+        width: 95%;
+    }
+    .form-box{
+        position: relative;
+        width: 100%;
+        height: auto;
+        padding: 30px 0;
+        
+    }
+    .footer-nav li{
+        display: inline-block;
+        width:90%;
+    }
+    .call{
+      height: 850px;
+    }
+    footer .col{
+        width:49.2%;
+    }
+    .button-header{
+        width:100%;
+        
+    }
+    .main-nav{
+        list-style: none;
+        margin-top:50px;
+        height: calc(300vh+1px);
+       display: none;
+        
+    }
+    .main-nav li{
+        display: block;
+        font-size: 100%;
+        margin: 80px 40px;
+        float: none;
+        text-align: center;
+        border-bottom: 2px;
+        border-bottom-color: white;
+    }
+    .main-nav li a:link , .main-nav li a:visited{
+        color:#ecf0f1;
+        text-decoration: none;
+        text-transform: uppercase;
+        font-size: 100%;
+        border-bottom: 1px #fff;
+        -webkit-transition: border-bottom 0.5 s;
+        transition: border-bottom 0.5 s;
+        
+    }
+    .main-nav li a:hover , main-nav li a:active{
+        color:#ecf0f1;
+        border-bottom: 1px solid transparent;
+        -webkit-transition: 1s;
+        transition: 1s;
+    }
+    .span-1-of-3{
+        width: 80%;
+    }
+   
+}
+
+
+
+
+
+
+
+@media only screen and (max-width:480px){
+    body {
+    
+    }
+    section{
+        padding:25px 0;
+    }
+    .contact-form{
+        width:100%;
+    }
+    h1{
+        font-size: 130%;
+    }
+    h2{
+        font-size: 120%;
+    }
+    .btn:link ,.btn:visited , input[type=submit]{
+        padding: 5px 10px;
+        margin-right: 2px;
+        font-size: 90%;
+    }
+    .btn-app{
+     height: 33px;   
+    }
+    .call{
+        height: 800px;
+    }
+    .span-1-of-4{
+        width:100%;
+    }
+    .social-links li{
+        margin-left: 90px;
+        width:49.2%;
+    }
+}
