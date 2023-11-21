@@ -1,9 +1,9 @@
-##TITLE:
+## TITLE:
 Star food  - free responsive HTML template
 
-##AUTHOR:
+## AUTHOR:
 Reza aghaee vafaee
 
-##CREDITS:
+## CREDITS:
 http://getbootstrap.com/
 http://jquery.com/
